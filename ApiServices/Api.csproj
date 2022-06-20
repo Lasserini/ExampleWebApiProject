@@ -262,9 +262,9 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entities\Entities.csproj">
+    <ProjectReference Include="..\Entities\Database.Entities.csproj">
       <Project>{35685612-5f09-49b4-aa37-8a81dd2dfb30}</Project>
-      <Name>Entities</Name>
+      <Name>Database.Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
